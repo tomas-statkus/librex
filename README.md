@@ -63,14 +63,20 @@
 Here are a few screenshots of key pages in the application:
 
 - **Home Page:**
+
+
   ![Home Page](./screenshots/HomePage.png)
 
 
 - **Login Page:**
+
+
   ![Login Page](./screenshots/LoginPage.png)
 
 
 - **Admin Page:**
+
+
   ![Admin Page](./screenshots/AdminPage.png)
 
 ## Contribution
