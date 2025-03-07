@@ -1,3 +1,6 @@
+
+---
+
 # Librex - Library Management System
 
 **Librex** is a full-stack Library Management System that allows users to view available books and their borrow logs publicly, while giving administrators the ability to manage books and borrow logs via an intuitive admin panel.
@@ -55,6 +58,23 @@
 - **Admin Users:**  
   After logging in via the provided login endpoint, admins can access the admin panel from the frontend to add or remove books and update borrow logs.
 
+## Screenshots
+
+Here are a few screenshots of key pages in the application:
+
+- **Home Page:**
+  ![Home Page](./screenshots/HomePage.png)
+
+
+- **Login Page:**
+  ![Login Page](./screenshots/LoginPage.png)
+
+
+- **Admin Page:**
+  ![Admin Page](./screenshots/AdminPage.png)
+
 ## Contribution
 
 This is a work-in-progress personal project. Contributions, suggestions, and feedback for improvements are welcome!
+
+---
